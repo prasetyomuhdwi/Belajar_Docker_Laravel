@@ -8,7 +8,6 @@
 |composer|2.5.5|
 |npm node|16.15.0|
 |artisan| |
-|||
 
 ## 🤠 Cara Kerja
 - ### Docker-compose build nginx, mysql, and php:
